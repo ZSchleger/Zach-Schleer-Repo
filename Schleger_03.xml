@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- 
+   Loca = location
+   para = paragraph
+   adj = adjective
+   pro = pronoun
+   act = action
+   org = organization
+   peo = people
+   des = description
+    let = letter
+    DL = Date Line--> 
+    
+   <Let num ="1"> <loca>On Board <boat>La Touraine</boat></loca>,
+    
+    <date d="1917-06-30">June 30th, 1917.</date>
+    
+    <para n="1">Even now that <per>we</per> are <loca>out of sight of land</loca>, it seems <adj>impossible</adj> that <pro>I</pro> am actually <act>off to <loca>France</loca></act>
+        and, for the first time in <pro>my</pro> life, <act>traveling alone</act>. Everything has happened so <adj>quickly</adj> since the 
+        <loca>American</loca> Fund for <loca>French</loca> <adj>Wounded</adj> <act>found</act> an opening for <pro>me</pro> in <loca>Paris</loca> that I suppose I am still somewhat 
+        <adj>dazed and bewildered.</adj> <act>The fact that I don't know what it will all be like and that I can't look ahead 
+            makes it easier to be happy and live in the present.</act> Of course I have had a bit of a taste in <loca>New York </loca>
+        of the <act>work that the <org>A. F. F. W.</org> is doing</act> but its <Loca>Headquarters in Paris</Loca> will be <adj>different</adj> in some ways <pro>I</pro> fancy.
+    </para>
+    <para n="2"><act>I can't get over how <adj>lucky</adj> <pro>I</pro> am to have this chance</act> for I <act>realize</act> how few <noun>girls</noun> of <pro>my</pro> <adj>age</adj>
+        are <act>getting across</act>, and I understood the <act>grit and pluck which made you encourage <pro>me</pro> on my <adj>great 
+            adventure</adj> and send me along a path which has proved so <adj>dangerous</adj> of late</act>.</para>
+    
+    <para n="3"><act>As we drifted down the <loca>river</loca></act>, in the <adj>sunset glow with two absurd tugs <act>puffing alongside</act></adj>, 
+        <act>I know that many eyes were <adj>moist</adj> and that the same thought was in all our minds.</act> How many 
+        of <loca>this ship's</loca> <peo>company</peo> <act>will see that sky-line again!</act> It was <adj>very quiet</adj>, <act>no one spoke much, 
+            and, little by little, the glow faded from the sky and one star after another appeared. </act>
+        I knew that you would be looking at those same stars <loca>down in Lakewood</loca> and that <act>your thoughts
+            and prayers were the same that filled my heart at that moment.</act> Somehow distance does not separate, 
+        after all.</para>
+    
+    <para n="4"><act>We waited <loca>near the Statue of Liberty</loca> <time>until midnight</time>—a rumor had it that a "personage" was 
+        to come on board.</act> This <peo>individual</peo> was <des>shrouded in mystery</des> until we put to sea when <act>it was given out 
+            that the party which had clambered aboard in the night was none other than the <adj>Italian</adj> Mission. </act>
+        Our spirits rose at once for, what with <peo>Frank Sayre</peo> <loca>on the boat</loca> and these <adj>distinguished Italian</adj> <peo> gentlemen</peo>, 
+        <act>we shall doubtless be honored by a <peo><adj>bigger</adj> convoy</peo> and so <adj>doubly safe</adj>.</act> However, <act>thus far we have but <boat>two 
+            destroyers</boat> following us</act>. <pro>They</pro> can be seen distinctly outlined against the horizon, 
+        one on each side, and seem to be the same somber gray which all ships are affecting in this war. 
+        A sailor informed me this morning that we weren't in much danger for the <time>first four or five days </time>
+        but that after that I might see some excitement. Here's hoping!</para>
+    
+    <para n="5"><act>I have <loca>a small inside cabin</loca> and my <peo>room-mate</peo> is quite a <adj>character</adj></act>. <pro>She</pro> is a <adj>native of 
+        Haiti, voluble and very portly</adj>—has four large pieces of baggage in our <loca>tiny stateroom</loca>, 
+        wears a <item>costume which resembles a Mother Hubbard</item> and <act>smokes</act> countless thin <item>cigarettes</item> that 
+        <adj>smell like incense</adj>! <act>When I appeared, there didn't seem to be much room for me but, as she says, 
+            <des>luckily I am small</des>, and I was soon tucked into the upper berth with my belongings!</act> She <des>really 
+                isn't bad</des> and <act>after looking me over carefully told me that she didn't think we would fight and 
+                    from that time has beamed upon me!</act> She is going over to <act>join <pro>her</pro> <noun>son</noun></act> who has <act>been fighting with <peo>the 
+                        French</peo> since the beginning of the war</act> but will never go back to the Front now, <des>having lost some 
+                            fingers off each hand</des>. <act>She is so thankful</act>, she says, that he hasn't lost more than his fingers. </para>
+</Let>
+    
+   <let num="2"> <date d="1917-06-08">July 8th, 1917</date>
+    <time>Friday night we entered <loca>the war zone</loca> at seven o'clock</time> but you would never know it. <act>Aside from boat-drills and sleeping on deck people act as usual.</act> <peo>The officers</peo> <loca>on the boat</loca> are <act>very particular about the drills; several times the alarm has sounded and we have been taught just what to do in case we are hit.</act> <adj>It's very funny</adj> to see the <act>people rush below for their valuables, strapping on their life preservers as they go </act>(which we always have near at hand wherever we are -<loca>on deck or in the saloon</loca>). <drill>In about <time>five minutes</time> we are lined up, divided into groups in front of our own particular life-boats which have been swung out over the sea ready to lower</drill>. Every one is checked off and <drill>each man is told what woman he is to save.</drill> (Great excitement at this point as no one of the men wants to save the lady detailed to him, but some one in another boat!) <drill>We all stand about looking too absurd and bumping into each other's life preservers on the crowded upper deck.</drill> Finally the signal is given which releases us, and <act>we all file down
+    
+    again to take off the clumsy heavy jackets of safety and regale ourselves with various amusements on the deck.</act>
+    
+   <act> Rumor has it that two ships have been sunk, <des>one in the course ahead of where we were yesterday and the other about an hour behind us.</des></act> No one knows how many lives were lost. Perhaps those three submarines were more fact than fiction after all.
+    
+    It is thought that we should make <loca>Bordeaux</loca> by <time>Tuesday morning</time> if all goes well and that the convoy which should have met us days ago will be with us to-night.
+    
+    <time>This being Sunday,</time> <act>the boys on board are very much dressed up</act>, that is to say <des>they are wearing clean shirts and have their hair brushed! It's a perfect day, warm and cloudless, and I've been lying in the sun adding to my coat of tan</des>. We all feel quite sad that the voyage is so nearly over -it has been such loads of fun and I shall hate saying good-by to every one.
+    
+    <loca>La Touraine</loca> </let>
+    
+ <let num="3">   <DL><loca>En route from Bordeaux to Paris</loca>, <date d="1917-06-18">July 18th, 1917.</date></DL>
+    
+    
+    On landing <time>yesterday</time> <loca>I went straight to the Hôtel de France</loca> and <des>it certainly was good to have room to turn around in: as for a bed with real springs I greeted it with <adj>enthusiasm</adj>!</des> Towards evening <peo>Frank and I</peo> <act>took a long walk <loca>about the city</loca>.</act> <loca>A port town</loca> always interests me and <des>we saw it all at the loveliest time of day. The harbor was full of fishing smacks and small craft of all kinds and exquisite tones in the sails and rigging. The last rays of the sun cast a rosy hue over everything, making one think at once of Venice and the days before the war.</des> Later we <act>wandered through some of the <loca>oldest parts of Bordeaux</loca> </act>and I really felt that I was abroad again! <des>The narrow winding streets and cobblestones, with here and there an ancient façade or doorway and everywhere, in the poorest alleys, a bit of a vine or potted plant in the windows</des>. How do they manage to make it all so <adj>picturesque and alluring</adj>?
+    
+    <act>The <peo>women and the old men</peo> are doing everything and it is surprising to see the <peo>lady conductors</peo>.</act> <des>On this train they use <peo>women </peo>entirely, even in the dining car.</des> The war hasn't robbed them of vivacity or their <adj>beautiful complexions</adj> and <des>I believe they are <des>even prettier</des> in their simple black working clothes than before.</des>
+    
+   <loca> We are at present passing through the <adj>famous</adj> vineyards</loca> and <des>I have never seen the <loca>country</loca> look so <adj>beautiful</adj></des>. <des>The crops seem in <adj>perfect condition</adj>, thanks to the <act>patient labor</act> of these <peo>wonderful women</peo>, and the grain waves in profusion everywhere.</des> I have longed for you at every turn, how you would enjoy it all. <des>The poppies are in their prime and, as the train whirls by, they look like immense splashes of red -almost like stains of blood against the gold of the wheat.</des>
+    
+   <act> I have just come in from a very excellent meal <loca>in the dining car</loca></act> -<des>the food was served promptly by <peo>two French girls</peo> of the peasant type and with a <act>speed that was wonderful</act>, the car holding over thirty persons.</des>
+    
+<loca>Paris</loca></let>
+
+
+</root>

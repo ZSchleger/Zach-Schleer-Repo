@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- 
+    TL = title line
+    auth = author
+    sent = sentence
+    l = line
+    form = format
+    loca = location-->
+    
+    <TL><loca l="library of congress"/><Title>"Ballad of Booker T.,"</Title> by <auth>Langston
+            Hughes</auth>, <date d="1941-06-01">June 1, 1941</date></TL>
+    <Title form="underlined">BALLAD OF BOOKER T.</Title> by <auth>Langston Hughes</auth>
+    <sent n="1"><l>Booker T.</l></sent>
+    <sent n="2"><l>Was a practical man.</l></sent>
+    <sent n="3"><l>He said, Till the soil</l>
+        <l>And learn from the land.</l></sent>
+    <sent n="4"><l>Let down your <stamp s="covered by stamp">bucket</stamp></l>
+        <l>Where you are.</l></sent>
+    <sent n="5"><l>Your fate is <stamp s="covered by stamp">here</stamp></l>
+        <l>And not afar.</l></sent>
+    <sent n="6"><l>To help <stamp s="covered by stamp">yourself</stamp></l>
+        <l>And your fellow man,</l>
+        <l>Train your head<draft og="head was heart"/>,</l>
+        <l>Your heart<draft og="heart was head"/>,<form f="Underlined"> and your
+        hand</form>.</l></sent>
+    <sent n="7"><l>For smartness alone's</l>
+        <l>Surely not meet—</l>
+        <l>If you haven't at the same time</l>
+        <l>Got something to eat.</l></sent>
+    <sent n="9"><l>Thus at Tuskegee</l>
+        <l>He built a school</l>
+        <l>With book-learning there</l>
+        <l>And the workman's tool.</l></sent>
+    <sent n="10"><l>He started out</l>
+        <l>In a simple way—</l>
+        <l>For yesterday</l>
+        <l>Was <form f="Underlined">not</form> today.</l></sent>
+    <sent n="11"><l>Sometimes he had</l>
+        <l>Compromise in his talk—</l>
+        <l>For a man must crawl</l>
+        <l>Before he can walk—</l>
+        <l>And in Alabama in '85</l>
+        <l>A joker was lucky</l>
+        <l>To be alive.</l></sent>
+    <sent n="12"><l>But Booker T.</l></sent>
+    <sent n="13"><l>Was nobody's fool:</l>
+        <l>You may carve a dream</l>
+        <l>With an humble tool.</l></sent>
+    <sent n="14"><l>The tallest tower</l>
+        <l>Can tumble down</l>
+        <l>If it be not rooted</l>
+        <l>In solid ground.</l></sent>
+    <sent n="15"><l>So, being a far-seeing </l>
+        <l>Practical man,</l>
+        <l>He said, Train your head,</l>
+        <l>Your heart, <form f="Underlined">and your hand.</form></l></sent>
+    <sent n="16"><l>Your fate is here</l>
+        <l>And not afar,</l>
+        <l>So let down your bucket</l>
+        <l>Where you are.</l></sent>
+    <stamp s="Seap of the Library of Congress"/>
+    <auth t="Signature">LANGSTON HUGHES</auth>
+    <draft n="final">Final Draft,</draft>
+    <loca>Hollow Hills Farm, Monterey, California,</loca>
+    <year d="1941-06-01">June 1, 1941.</year>
+</root>
