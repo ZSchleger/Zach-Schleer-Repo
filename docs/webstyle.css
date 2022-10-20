@@ -1,10 +1,66 @@
-
 body {
-background-color: BurlyWood;
-color: indigo;
-font-family: arial, helvetica, sans-serif;
+
+  font-family: verdana,arial,geneva;
+  background-image: url("pics/bg.jfif");
+  border:10px; 
+  border-style:solid; 
+  border-color:black;
 }
-ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+ nav ul.menuB li {
+  display:inline;
+  font-size: 1.5vw; 
+  padding-left:1vw;
+  padding-right:1vw;
+  padding-top:5vw;
+  padding-bottom:10vw;
 }
+
+ nav ul.menuB{
+     background-color: lightgrey;
+     padding-left:1vw;
+     padding-right:1vw;
+     padding-top:2.5vw;
+     padding-bottom:2.5vw;
+ }
+ 
+ 
+
+a:hover {
+  color: white;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 55px;
+  padding: 3vw;
+ 
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  padding: 3vw;
+  text-decoration: underline white;
+  
+}
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline white;
+  
+  
+}
+p {
+  color: black;
+  font-size: 25px;
+  padding-left:2vw;
+  padding-right:2vw;
+}
+img{
+    max-width: 800px;
+    width: 40%;
+}
+
