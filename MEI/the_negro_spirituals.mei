@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei meiversion="4.0.0" xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>The Negro Spirituals</title>
+                <respStmt>
+                    <resp>Composed by:</resp>
+                    <persName role="creator" codedval="118611666" auth="GND" auth.uri="http://d-nb.info/gnd/">Robert Schumann</persName>
+                    <resp>Machine-readable transcription by:</resp>
+                    <persName role="encoder">John Doe</persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <unpub>Incomplete!</unpub>
+            </pubStmt>
+        </fileDesc>
+        <workList>
+            <work>
+                <title>Canon in D</title>
+                <composer>
+                    <persName role="composer" codedval="119456613" auth.uri="http://d-nb.info/gnd/" auth="GND">Johann Pachelbel</persName>
+                </composer>
+                <key pname="f" mode="major">F major</key>
+                <meter count="4" unit="4"/>
+                <creation>Year of composition
+                    <date>1680</date>
+                </creation>
+            </work>
+        </workList>
+    </meiHead>
+    <music>
+    <body>
+        <mdiv xml:id="meico_822ee639-b0be-4199-9710-ad4805299a7a">
+            <score>
+                <scoreDef meter.count="4" meter.unit="4" key.mode="major">
+                    <staffGrp bar.thru="true" symbol="brace">
+                        <staffDef n="1" clef.line="2" clef.shape="G" key.sig="1f" key.mode="major" lines="5"/>
+                    </staffGrp>
+                </scoreDef>
+                <section xml:id="meico_6c6f00bf-a9ab-4314-bc22-8c0ff0e3ad05">
+                    <!--Measure 1-->
+                    <measure n="1" xml:id="meico_773a5cbd-82c0-4e58-989b-066dd33723b4">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_4152f153-2006-4ba5-ae01-5731bf384f7a"/>
+                                <beam>
+                                    <note pname="e" oct="4" dur="4" stem.dir="up" xml:id="meico_26177420-c5a3-48ae-bbca-f284940fe50c"/>
+                                    <note pname="c" oct="4" dur="4" stem.dir="up" xml:id="meico_795ab5f3-cdd3-4bf3-9edd-5eec1c6f86f3"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_b373a004-b17b-4c63-ba0f-436b63941f16"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_930be80b-bd51-4bdd-8360-21bbf0841dff"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_4bff620c-6817-41e9-9cd0-9fa643270c91"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_39401e66-382e-44a8-8b31-b9e79a9507a5"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 2-->
+                    <measure n="2" xml:id="meico_b065bed2-72ea-4cc8-b610-307d950d55c5">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="a" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_007df7d5-a971-4748-acd0-2a9305758221"/>
+                                <beam>
+                                    <note pname="a" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_4e42de3e-6702-4197-8d34-2f1ead6bf352"/>
+                                    <note pname="g" oct="4" dur="4" stem.dir="up" xml:id="meico_8a442544-14f4-4caf-97cb-13035bfd242c"/>
+                                </beam>
+                                <beam>
+                                    <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_edf7290c-fd16-4471-9f4d-206006c9db26"/>
+                                    <note pname="g" oct="4" dur="4" stem.dir="up" xml:id="meico_f10ffb47-df0a-4633-9fd7-ed1065b46bc2"/>
+                                    <note pname="e" oct="4" dur="4" stem.dir="up" xml:id="meico_212d2da2-f978-445c-b345-5cd85cdb3cb6"/>
+                                    <note pname="e" oct="4" dur="4" stem.dir="up" xml:id="meico_1a37a3b2-a2ee-45da-a804-34bf36421409"/>
+                                </beam>
+                                <note pname="e" oct="4" dur="2" stem.dir="up" xml:id="meico_7536bdd9-cc55-42a1-8dcd-352b1860c303"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 3-->
+                    <measure n="3" xml:id="meico_4ad5d7e2-3062-4eeb-bfa8-8e6c4b288816">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="d" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_1f821098-fc4a-42b0-bac2-4b1d26fe638a"/>
+                                <beam>
+                                    <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_c1ade389-57a3-4377-b26c-89577b12e7d3"/>
+                                    <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_282004ea-8fb5-4c58-a258-3ebdff10f915"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_d032751f-0628-4ac3-b252-96cee2e93977"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_73504932-6d0b-4f86-a0c7-456540edd761"/>
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_e37b9917-ee60-4156-8d56-12d3c5ce05c1"/>
+                                    <note pname="d" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_06a54d25-c58a-4bf8-afc9-4ae9ef5734e6"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 4-->
+                    <measure n="4" xml:id="meico_cb74b3e9-f4d4-4645-87b9-135a2cdff0de">
+                        <staff n="2">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" stem.dir="up" xml:id="meico_805f64b8-7ee3-467c-bc68-ed19e4655628"/>
+                                <beam>
+                                    <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_04adad15-9287-49e7-94b7-f69e97af5398"/>
+                                    <note pname="c" oct="4" dur="4" stem.dir="up" xml:id="meico_fd14c5b9-bbee-402d-8786-3c15905d6098"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_be12ff34-e3f4-49e1-8422-cf77ee34e98e"/>
+                                <note pname="g" oct="4" dur="4" stem.dir="up" xml:id="meico_277c2510-eb19-4af9-93fd-5e426af23782"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 5-->
+                    <measure n="5" xml:id="meico_0f8c148e-c028-41db-ae48-51cad6ffa397">
+                        <staff n="2">
+                            <layer n="1">
+                                <note pname="a" oct="4" dur="2" dots="1" stem.dir="up" xml:id="meico_cc851e0c-1ef6-4d13-8410-4d05575a0516"/>
+                                <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_cacb04b0-0ddd-47ef-ad16-7e2f178aadc4"/>
+                                <beam>
+                                    <note pname="g" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_6265188b-8c84-4f0c-b156-86084d49c412"/>
+                                    <note pname="d" oct="4" dur="4" tie="m" stem.dir="up" xml:id="meico_862fc878-7bd8-49fa-92bf-13bae40aad19"/>
+                                    <note pname="d" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_3df8312f-082c-4bcb-a095-4498bc6f1c40"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 6-->
+                    <measure n="6" xml:id="meico_484026cb-e701-4353-8f67-1bee6cf3759f">
+                        <staff n="2">
+                            <layer n="1">
+                                <note pname="d" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_de206bd5-8770-47aa-a974-408530c16aa6"/>
+                                <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_cf3db3b1-e7b4-4f57-a736-dde4949c9f40"/>
+                                <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_c98b91a2-4e56-479e-8182-433b5ef16873"/>
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_1e710cf1-9753-4ae3-b43a-ff4572942fe8"/>
+                                    <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_7d08cb28-56b7-4712-821b-ce77e2137d3e"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_d28e0960-5305-49eb-acbe-76739a7dc2d0"/>
+                                    <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_7c882015-0ca4-499c-9092-2f6d0c264f5f"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 7-->
+                    <measure n="7" xml:id="meico_6931f7f3-2c8f-4485-aee7-d26ee9c680c5">
+                        <staff n="1">
+                            <layer n="1">
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_13289cc5-9397-4ec9-a951-9bf9b329b97a"/>
+                                    <note pname="d" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_e43230b3-0a27-4141-9bdd-ba5a730b5645"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_75ebdc61-0966-4bef-944a-068eb5d396c7"/>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_dc94172d-ce12-4932-a6ee-678c53287019"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_abafee11-a68e-4fdb-b375-1a0b0ec9efbb"/>
+                                <beam>
+                                    <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_7e7b2c87-d4de-4fcc-a2a1-c9d9bdd657a3"/>
+                                    <note pname="c" oct="4" dur="4" stem.dir="up" xml:id="meico_ea71c55d-e7ab-484b-8577-78648f49e722"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_c3fe05fc-ee6e-48f3-8886-755e79d38468"/>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_1a7448a0-fc56-438c-b73e-0d25b1fcfe77"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_c42d4c69-fb0a-4396-a63a-b06ce6dfef26"/>
+                                    <note pname="d" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_29515c8a-4a47-48f9-8971-c4472272baee"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 8-->
+                    <measure n="8" xml:id="meico_0f826d14-0882-4542-a8aa-b6810872450a">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_4bdf0e93-ef54-450f-86d8-dfd3c567a405"/>
+                                <beam>
+                                    <note pname="e" oct="4" dur="4" stem.dir="up" xml:id="meico_1da33f53-b88d-4889-b338-0662ae49827b"/>
+                                    <note pname="c" oct="4" dur="4" stem.dir="up" xml:id="meico_796ba91e-faeb-4156-a84a-aa9cfe2c21ac"/>
+                                </beam>
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_8cc3a36f-8d12-4dd2-bfd4-c3b9d641b40a"/>
+                                    <note pname="f" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_3d7f3fcc-ea64-4ec7-953b-88fbf7685aa0"/>
+                                </beam>
+                                <beam>
+                                    <note pname="a" oct="4" dur="4" tie="m" stem.dir="up" xml:id="meico_d7b69bb9-06be-4bb7-8678-d4ce439161e6"/>
+                                    <note pname="c" oct="5" dur="4" tie="t" stem.dir="up" xml:id="meico_32de6013-78ca-46dd-9723-7adc1642586f"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 9-->
+                    <measure n="9" xml:id="meico_e81598b6-1fd9-46f0-96c4-00c9f19b398a">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="5" dur="2" tie="i" stem.dir="up" xml:id="meico_28b502d6-4ee4-447d-acca-c6cc4b27b957"/>
+                                <note pname="a" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_a67e8b5d-6f4d-4c99-b234-17c3207854b1"/>
+                                <beam>
+                                    <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_187535f7-ba30-46f1-9416-a918f3c82884"/>
+                                    <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_74779b67-887a-483c-b4ad-19eac20cf4a9"/>
+                                </beam>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 10-->
+                    <measure n="10" xml:id="meico_4eb71c32-512a-4cc9-8b0c-ff802b96865f">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="c" oct="5" dur="4" stem.dir="up" xml:id="meico_ce5067bd-5274-4742-8f46-ff1ad3edfce1"/>
+                                <note pname="c" oct="5" dur="4" stem.dir="up" xml:id="meico_f30e8a17-a369-48fc-ab43-a7c95d4be7d8"/>
+                                <note pname="c" oct="5" dur="4" stem.dir="up" xml:id="meico_2a4ad81e-a05a-43ff-9525-f7fea9d466e8"/>
+                                <note pname="c" oct="5" dur="4" stem.dir="up" xml:id="meico_b57f5a29-66ed-4728-b995-feb2356b335b"/>
+                                <beam>
+                                    <note pname="c" oct="5" dur="4" tie="i" stem.dir="up" xml:id="meico_87bdf3fc-cf3b-4f70-bafb-c95eabc91419"/>
+                                    <note pname="a" oct="4" dur="4" tie="m" stem.dir="up" xml:id="meico_b5f547fb-09de-4c62-9762-3d996f398c33"/>
+                                    <note pname="g" oct="4" dur="4" tie="m" stem.dir="up" xml:id="meico_84e364d1-ea71-4d2f-862d-b0c8c7c1361d"/>
+                                    <note pname="f" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_4eb70ed2-9cf6-44b6-b687-9c632fd1e332"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_772b4bd3-f0d7-4a5c-aeb3-54bb4af5c11c"/>
+                                <beam>
+                                    <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_3cea62c5-2143-4e42-825e-bf281d769cbf"/>
+                                    <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_8f04ed2a-2d1f-4288-9dc7-0f896f3ecb1e"/>
+                                </beam>
+                                <note pname="g" oct="4" dur="4" stem.dir="up" xml:id="meico_1f6a6749-c5a7-4379-b44b-c236d2a62934"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 11-->
+                    <measure n="11" xml:id="meico_ad4529b7-cbec-4d8e-8520-f32b865343e4">
+                        <staff n="1">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="2" stem.dir="up" xml:id="meico_859624ad-fb3b-484c-aca0-586f216db218"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 12-->
+                    <measure n="12" xml:id="meico_3285c043-bc55-49ac-a6b6-c1f5dd0a3902">
+                        <staff n="2">
+                            <layer n="1">
+                                <beam>
+                                    <note pname="f" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_bc600198-4f29-4f61-abe1-845e51f6f51b"/>
+                                    <note pname="d" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_ae3e2d74-9a82-4b70-80d6-4deefd881fe5"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_c0141d07-4b07-4ee4-b9f7-e784715f2c63"/>
+                                <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_17f10f34-7546-446c-911b-62706046f7af"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_bf4cdc51-edbb-4d29-bc52-ef1b40b48d8f"/>
+                                <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_85a6ea58-50ba-4ca6-9cf8-e0360da799a8"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_6a2f28d3-d474-4b31-9aab-11177fedc9ac"/>
+                                <note pname="d" oct="4" dur="4" stem.dir="up" xml:id="meico_1fb22305-eb71-414c-b84e-aae778fedae2"/>
+                                <note pname="c" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_4241e8d3-5542-4a2b-a02c-fdc5df412acd"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 13-->
+                    <measure n="13" xml:id="meico_32cf28ee-b27b-4259-9a92-160d109b0513">
+                        <staff n="2">
+                            <layer n="1">
+                                <note pname="c" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_05fbfb57-a257-4594-9271-1e07475eb7bc"/>
+                                <beam>
+                                    <note pname="c" oct="4" dur="4" stem.dir="up" xml:id="meico_4a86984d-0168-4e54-962a-94c7d00c2f0a"/>
+                                    <note pname="c" oct="4" dur="4" stem.dir="up" xml:id="meico_b519d1d9-fa5f-48df-8c9f-30a2a57decee"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_bf6840c0-a62b-4516-b80c-2ad75f934f84"/>
+                                <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_de62b971-4c34-458c-b3de-4352f7501a9c"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 14-->
+                    <measure n="14" xml:id="meico_e920a489-83de-4675-b944-27217dc5f697">
+                        <staff n="2">
+                            <layer n="1">
+                                <note pname="a" oct="4" dur="4" dots="1" stem.dir="up" xml:id="meico_34c56c34-e5b0-40c2-9fd2-f4472e37961b"/>
+                                <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_1994df58-194b-4d30-826a-772bb7616e14"/>
+                                <beam>
+                                    <note pname="g" oct="4" dur="4" tie="i" stem.dir="up" xml:id="meico_267305b9-89ce-417f-811c-0d96382f1fe8"/>
+                                    <note pname="f" oct="4" dur="4" tie="m" stem.dir="up" xml:id="meico_7680a5cb-85f7-416c-b43e-3e1f0f015a5d"/>
+                                </beam>
+                                <note pname="f" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_5d8906f6-656f-4993-921f-58b23a9081ca"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_96f20ebb-b1d7-4d22-9d0e-b48a9da6ea90"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 15-->
+                    <measure n="15" xml:id="meico_434f1a30-dda1-42fd-9ee8-f55a72139b63">
+                        <staff n="2">
+                            <layer n="1">
+                                <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_7d3cf02d-6a26-4a0c-a854-fe24a53ed8b0"/>
+                                <note pname="c" oct="5" dur="4" stem.dir="down" xml:id="meico_749fbedc-efe2-4b02-aaea-c6afacdd568b"/>
+                                <note pname="c" oct="5" dur="4" stem.dir="down" xml:id="meico_f974bd45-c642-423c-b622-c529644cd1af"/>
+                                <note pname="a" oct="4" dur="4" stem.dir="up" xml:id="meico_56c5efce-6b21-48b7-a2ea-7b17ab64c16c"/>
+                                <beam>
+                                    <note pname="c" oct="5" dur="4" tie="i" stem.dir="up" xml:id="meico_2ef000c4-b406-4a16-9d53-0d76162ca407"/>
+                                    <note pname="a" oct="4" dur="4" tie="t" stem.dir="up" xml:id="meico_9ef2660e-489f-49c2-93c6-98b3e5ac1142"/>
+                                </beam>
+                                <note pname="g" oct="4" dur="4" stem.dir="up" xml:id="meico_ad28e95f-0adb-4391-a0fe-75752f6a9f1a"/>
+                                <note pname="f" oct="4" dur="4" stem.dir="up" xml:id="meico_0f30d32a-925f-49d7-8a0f-f454bc9b5a1d"/>
+                                <note pname="g" oct="4" dur="4" stem.dir="up" xml:id="meico_d331e3e3-5ead-46c4-a60e-11c69816ebe6"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                    <!--Measure 16-->
+                    <measure n="16" xml:id="meico_c7278029-10c3-4940-b665-9a6b10bfd7f9">
+                        <staff n="2">
+                            <layer n="1">
+                                <note pname="f" oct="4" dur="2" stem.dir="up" xml:id="meico_f5af09d0-e160-42ff-ac88-9652a8825e3f"/>
+                            </layer>
+                        </staff>
+                    </measure>
+                </section>
+            </score>
+        </mdiv>
+    </body>
+    </music>
+</mei>
