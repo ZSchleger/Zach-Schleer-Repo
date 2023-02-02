@@ -1,8 +1,13 @@
 
 import spacy
 
-
+#nlp = spacy.cli.download("en_core_web_md")
 nlp = spacy.load('en_core_web_sm')
+
+import os
+
+workingDir = os.getcwd()
+print("current working directory: " + workingDir)
 
 lobsterSong = open('lobsterTaxSong1.txt', 'r')
 words = lobsterSong.read()
