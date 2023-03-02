@@ -1,0 +1,27 @@
+Find: <!doctype html>
+Replace: 
+
+Find: <html>
+Replace: <xml>
+
+Find: </html>
+Replace: </xml>
+
+Find: &
+Replace: &amp;
+
+Find: \n{3}
+Replace: \n\n
+
+Find: <link .*? />
+Replace: 
+
+Find: \[.*?\]
+Replace: <action>\0</action>
+
+Find: <i>(♪ .*?♪) ?</i>
+Replace: <music>\1</music>
+
+
+
+
