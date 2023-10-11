@@ -1,0 +1,21 @@
+
+body.on {
+    background-color: lightgray;
+}
+
+p.on {
+    display: none;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #555;
+}
